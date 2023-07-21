@@ -1,3 +1,3 @@
 # Disney-hotstar-clone
 Disney+hotstar clone
-t https://sweetypandey789.github.io/Disney-hotstar-clone/
+ https://sweetypandey789.github.io/Disney-hotstar-clone/
